@@ -8,14 +8,13 @@ section{
 }
 body{
     text-align: center;
-    background-color: rgb(155, 177, 246);
+    background-color: rgb(178, 194, 243);
 }
 ul{
     display: inline;
     text-align: center;
     align-items: center;
     margin-right: 30px;
-    
 }
 
 .facts{
