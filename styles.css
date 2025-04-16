@@ -4,11 +4,11 @@ section{
     align-items: center;
     justify-content: space-around;
     border-style: solid;
-    background-color:rgba(103, 147, 212, 0.785);
+    background-color:rgba(241, 186, 237, 0.785);
 }
 body{
     text-align: center;
-    background-color: rgb(178, 194, 243);
+    background-color: rgb(221, 109, 163);
 }
 ul{
     display: inline;
